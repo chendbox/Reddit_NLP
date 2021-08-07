@@ -2,7 +2,7 @@
 
 error: failed to push some refs to 'https://git.generalassemb.ly/chendbox/project_3.git'
 
----
+---https://git.generalassemb.ly/chendbox/project_3.git
 
 ## Rubric
 Your instructors will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
